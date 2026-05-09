@@ -1,19 +1,24 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=250&section=header&text=Prince%20Savaliya&fontSize=50&fontColor=ffffff"/>
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Prince Savaliya</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PRINCE%20SAVALIYA&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=ffffff"/>
 
-<h3 align="center">C++ Developer | ESP32 Projects | AI & Robotics Enthusiast</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=1000&lines=⚡+C%2B%2B+MASTER;🤖+AI+%26+ROBOTICS+ENTHUSIAST;🚀+ESP32+INNOVATOR;💻+COMPETITIVE+PROGRAMMER;🔥+BUILDING+THE+FUTURE"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;ESP32+Projects;AI+and+Robotics+Enthusiast"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=spm407&show_icons=true&theme=tokyonight"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spm407&theme=tokyonight"/>
-</p>
+# 💫 About Me
+
+```cpp
+class PrinceSavaliya {
+public:
+    string role = "C++ Developer";
+    string passion = "AI + Robotics";
+    string currentFocus = "Building Smart Systems";
+    string learning = "Machine Learning & Embedded Systems";
+
+    void lifeGoal() {
+        cout << "Create futuristic technology 🚀";
+    }
+};
